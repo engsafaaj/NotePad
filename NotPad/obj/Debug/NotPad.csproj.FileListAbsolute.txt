@@ -1,0 +1,10 @@
+c:\users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\bin\Debug\NotPad.exe.config
+c:\users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\bin\Debug\NotPad.exe
+c:\users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\bin\Debug\NotPad.pdb
+c:\users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\obj\Debug\NotPad.csprojResolveAssemblyReference.cache
+c:\users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\obj\Debug\NotPad.Form1.resources
+c:\users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\obj\Debug\NotPad.Properties.Resources.resources
+c:\users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\obj\Debug\NotPad.csproj.GenerateResource.Cache
+c:\users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\obj\Debug\NotPad.exe
+c:\users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\obj\Debug\NotPad.pdb
+C:\Users\safaj\documents\visual studio 2015\Projects\NotPad\NotPad\bin\Debug\Bunifu_UI_v1.5.3.dll
